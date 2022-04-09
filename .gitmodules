@@ -1,0 +1,3 @@
+[submodule "gocd"]
+	path = gocd
+	url = https://github.com/gocd/gocd
